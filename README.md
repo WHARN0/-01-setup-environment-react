@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Laporan Praktikum 
 
-## Getting Started
+|       | Pemrograman Berbasis Framework 2025 |
+| ----- | ----------------------------------- |
+| NIM   | 2241720225                          |
+| Nama  | Bagus Arnovario Wibowo              |
+| Kelas | TI - 3A                             |
 
-First, run the development server:
+## Praktikum 1 : Menyiapkan Lingkungan Pengembangan
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Screenshot](assets-report/Git.png)
+![Screenshot](assets-report/NodeJS.png)
+![Screenshot](assets-report/VSCode.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Jawaban Pertanyaan Praktikum 1
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Git digunakan untuk mengelola versi kode, publish, cloning atau kolaborasi project ke dalam repositori yang telah dibuat pada github.
+VS Code digunakan sebagai code editor untuk mengerjakan project pada praktikum kali ini.
+Node.js digunakan sebagai penyedia runtime untuk menjalankan Next.js serta mengelola dependensi melalui npm atau yarn.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Praktikum 2 : 
 
-## Learn More
+### Jawaban Pertanyaan Praktikum 2
 
-To learn more about Next.js, take a look at the following resources:
+## Praktikum 3 : 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Jawaban Pertanyaan Praktikum 3
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Praktikum 4 : 
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Jawaban Pertanyaan Praktikum 4

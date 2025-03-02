@@ -8,9 +8,9 @@
 
 ## Praktikum 1 : Menyiapkan Lingkungan Pengembangan
 
-![Screenshot](assets-report/Git.png)
-![Screenshot](assets-report/NodeJS.png)
-![Screenshot](assets-report/VSCode.png)
+![Screenshot](assets-report/Praktikum1.png)
+![Screenshot](assets-report/Praktikum1(1).png)
+![Screenshot](assets-report/Praktikum1(2).png)
 
 ### Jawaban Pertanyaan Praktikum 1
 
